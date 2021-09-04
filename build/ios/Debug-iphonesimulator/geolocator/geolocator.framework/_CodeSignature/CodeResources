@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/geolocator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r9ZkvC68pq5FudjoTkaCpWILW58=
+		Ci2Zqcs4C7xIm4812uT6BY8rZoA=
 		</data>
 		<key>Modules/geolocator.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/geolocator.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		r9ZkvC68pq5FudjoTkaCpWILW58=
+		Ci2Zqcs4C7xIm4812uT6BY8rZoA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -121,11 +121,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r9ZkvC68pq5FudjoTkaCpWILW58=
+			Ci2Zqcs4C7xIm4812uT6BY8rZoA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yctzRBMZ8veSA+wwGEL7ss3EH/Hok4l4y/D9DO+vbgo=
+			7bKX5gdNUn3EnlPRUXT62tjtBXjUEKhSKbk2n+KkMG4=
 			</data>
 		</dict>
 		<key>Modules/geolocator.swiftmodule/x86_64.swiftdoc</key>
@@ -143,11 +143,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			r9ZkvC68pq5FudjoTkaCpWILW58=
+			Ci2Zqcs4C7xIm4812uT6BY8rZoA=
 			</data>
 			<key>hash2</key>
 			<data>
-			yctzRBMZ8veSA+wwGEL7ss3EH/Hok4l4y/D9DO+vbgo=
+			7bKX5gdNUn3EnlPRUXT62tjtBXjUEKhSKbk2n+KkMG4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
